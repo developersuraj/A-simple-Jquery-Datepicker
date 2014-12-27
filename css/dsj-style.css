@@ -1,0 +1,43 @@
+<!--
+/*
+/
+/ Programming Logic - #1  [Jquery Datepicker]
+/ Developer : Suraj Jain
+/ Blog : https://developersurajjain.blogspot.com/
+/ Website : http://www.surajjain.com/
+/ Email : mail.surajjain@gmail.com
+/
+*/
+-->
+@charset "utf-8";
+*{margin:0;padding:0;}
+body {background:#eee;}
+#dsj-main{width:100%;margin:0 auto;max-width:600px; font-family:Arial, Helvetica, sans-serif; font-size:13px}
+form{
+	margin: 5% 0;
+	background: #fff;
+	padding: 10px;
+	border: #BABABA solid 1px;
+	box-shadow: 1px 2px 5px 0px rgba(0,0,0,0.2);
+}
+h1{
+	font-weight: 100;
+	margin-bottom: 25px;
+	color: rgb(24, 18, 121);
+	background: rgb(242, 242, 242);
+	padding: 5px 8px;
+	font-size: 24px;
+}
+.dsj-row{margin-bottom: 8px;}
+label{
+	font-size: 16px;
+	padding-right: 8px;
+	color: #888686;
+}
+small{
+	float: right;
+	font-size: 11px;
+	line-height: 28px;
+}
+small a{color: blue;text-decoration: none;}
+input{padding: 3px;}
